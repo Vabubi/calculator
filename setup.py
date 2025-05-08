@@ -7,6 +7,6 @@ setup(
     install_requires=[],
     author="Jokūbas",
     description="A simple Python module - Calcualtor",
-    url="https://github.com/TuringCollegeSubmissions/jplesk-DS.v3.1.2.5.git",
+    url="https://github.com/Vabubi/calculator.git",
     python_requires=">=3.6",
 )
