@@ -1,0 +1,39 @@
+calculator/__pycache__/__init__.cpython-313.pyc
+
+# Compiled Python files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+.venv/
+env/
+.env/
+
+# Distribution / build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE and editor-specific directories
+.idea/
+.vscode/
+.mypy_cache/
+.pytest_cache/
+
+# Logs and miscellaneous
+*.log
+*.pot
+*.pyc
+test_results/
+
+# Coverage files
+.coverage
+coverage.xml
+htmlcov/
+
+# Profiling data
+*.prof
+*.ipynb
